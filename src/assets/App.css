@@ -1,0 +1,69 @@
+.mainContainer{
+  width: 100% !important;
+}
+
+.midContainer{
+  margin: 30px;
+  text-align: center !important;
+  width: 95% !important;
+  display: inline-block;
+}
+
+.segmentNotes{
+  padding-top: 30px !important;
+}
+
+.searchMenu{
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+
+.menuContainer{
+  width: 20% !important;
+  display: inline-block !important;
+  vertical-align: top;
+}
+
+.notesContainer{
+  width: 80% !important;
+  display: inline-block !important;
+}
+
+.iconDelete{
+  float: right !important;
+  cursor: pointer;
+}
+
+.note{
+  display: inline-block !important;
+  background-color: #ffbe76 !important;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+
+.segments{
+  background-color: #eaeff1 !important;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+body{
+  background-color: #2d3436 !important;
+}
+
+.editButton{
+  margin-left: 20px !important;
+  color: white !important;
+  background-color: #2d3436 !important;
+}
+
+.emptyMessage{
+  width: 70% !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+.title{
+  color: white !important;
+}
